@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">One Click Scroll</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Welcome</string>
+    <string name="title_section2">Settings</string>
+    <string name="title_section3">About</string>
+    
+    <string name="ocr_greeting">Now you can quickly scroll to top or bottom of a list content or web page with just one click.</string>
+	<string name="gotop">To go top</string>
+	<string name="gobottom">To go bottom</string>
+	<string name="tutorial1">Tap the top left area on statusbar to perfrom instant go top</string>
+	<string name="tutorial2">Tap the top right area on statusbar to perfrom instant go bottom</string>
+	<string name="tutorial3">Youtube Tutorial: </string>
+	<string name="youtube">[Click to watch]</string>
+	<string name="notready">Function not ready</string>
+	<string name="no_root_msg">You may not use the app properly without root. Please check following for possible reasons.\n\n(1) Your device is not rooted\n(2) Superuser privilege not granted\n(3) your root is faulty\</string>
+	<string name="noroot">Root not available</string>
+	<string name="finishing">OneClick Scroll is stopped</string>
+	<string name="starting">OneClick Scroll is started</string>
+	<string name="translation_title">Translation Project</string>
+	<string name="translation_msg">If you are interested in helping to translate the App into your language, please send email to kiumiu.ca@gmail.com to apply for an ID and press below button to go to translation project page.</string>
+	<string name="translation_ok">Go to project</string>
+	<string name="dismiss">Dismiss</string>    
+	<string name="sensitivity">Adjust slider to adjust statusbar trigger area as shown in red color above.</string>
+	<string name="save">Save</string>
+	<string name="cancel">Cancel</string>
+	
+	
+	<string name="share_title">Share to friends!</string>
+	<string name="share_topic">Get OneClick Scroll!</string>
+	<string name="share_body">I am recommending you to get the app, OneClick Scroll, from Android Play Store. This app allows you to quickly scroll to top or bottom of a list (even web page) with just one click. Get it from http://play.google.com/store/apps/details?id=com.kiumiu.ca.oneclickscroll</string>
+
+	<string name="setting_setting">Settings</string>
+	<string name="title_reboot">Start on reboot</string>
+	<string name="summary_reboot">Check this box to auto start OneClick Scroll on reboot</string>
+	<string name="title_start">Enable</string>
+	<string name="summary_start">Turn on to start using OneClick Scroll</string>
+	<string name="title_noti">Enable persistent notification</string>
+	<string name="summary_noti">Enable this to make sure OneClick Scroll will never be killed by system</string>
+	<string name="title_vibration">Vibration feedback</string>
+	<string name="summary_vibration">When you touch the right trigger area, you will get vibration feedback</string>
+	<string name="title_area">Trigger sensitivity</string>
+	<string name="summary_area">Set sensitive for statusbar trigger area.</string>
+
+</resources>

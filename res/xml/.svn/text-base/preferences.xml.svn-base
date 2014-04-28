@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/setting_setting" >'
+        
+        <SwitchPreference
+        	android:defaultValue="true"
+            android:key="start"
+            android:summary="@string/summary_start"
+            android:title="@string/title_start" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="reboot"
+            android:summary="@string/summary_reboot"
+            android:title="@string/title_reboot" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="noti"
+            android:summary="@string/summary_noti"
+            android:title="@string/title_noti" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="vibration"
+            android:summary="@string/summary_vibration"
+            android:title="@string/title_vibration" />
+        <Preference
+            android:key="area"
+            android:defaultValue="0"
+            android:summary="@string/summary_area"
+            android:title="@string/title_area"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

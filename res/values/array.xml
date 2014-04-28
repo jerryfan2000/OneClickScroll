@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="about_header">
+        <item>Version</item>
+        <item>Rate the app</item>
+        <item>Share to friends</item>
+        <item>Development blog</item>
+        <item>Translation</item>
+    </string-array>
+    
+    <string-array name="about_detail">
+        <item>1.1.0</item>
+        <item>If you like this app, please take your time to give it a positive review.</item>
+        <item>Let more friends around you to know about this app.</item>
+        <item>Check new changes in each update on development blog.</item>
+        <item>Participate to translate the app to your language.</item>
+    </string-array>
+
+</resources>
